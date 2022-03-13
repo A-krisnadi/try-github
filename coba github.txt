@@ -1,0 +1,3 @@
+Coba github
+- Coba belajar github
+- belajar CICD
